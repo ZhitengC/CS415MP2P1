@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Robotics_Showcase.umap",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/NewMap.umap",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/HealthBar/BP_Healthbar.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/HealthPack.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/mushroom.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/MyWidgets/BP_Healthbar.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/MyWidgets/BP_Score.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_ColTarget.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/BP_Pursuer.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Purcuer_AIController.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EAIState.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Blueprints/WBP_Restart.uasset",
+				"C:/Users/Kuro/Desktop/415MP2/UnrealLearningKit/Content/LearningKit_Games/Maps/myMap.umap"
+			]
+		}
+	]
+}
